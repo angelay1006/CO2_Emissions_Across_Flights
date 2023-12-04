@@ -6,6 +6,9 @@ This project focuses on a critical environmental issue: carbon dioxide emissions
 The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/polartech/flight-data-with-1-million-or-more-records), courtesy of BarkingData, a company specializing in web mining and dataset provision for research.
 The dataset, due to its large size, has not been included in this repository, but can be found in the link above or here ([Google Drive](https://drive.google.com/file/d/1xYrzZ0WgfT1yZLZ4frlzwlkwMuU3RxlR/view?usp=sharing))
 
+## Environment
+This Jupyter Notebook was run in the DATA1030 Course Environment. 
+
 ## Author
 Angela Yeung (angela_yeung@brown.edu)
 ## License
