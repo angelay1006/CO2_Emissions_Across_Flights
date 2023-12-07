@@ -7,15 +7,14 @@ The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/polartech/
 The dataset, due to its large size, has not been included in this repository, but can be found in the link above or here ([Google Drive](https://drive.google.com/file/d/1xYrzZ0WgfT1yZLZ4frlzwlkwMuU3RxlR/view?usp=sharing))
 
 ## Environment
-Python Version: 3.11.4
-numpy: 1.24.4
-matplotlib: 3.7.2
-scikit-learn (sklearn): 1.3.0
-pandas: 2.0.3
-xgboost: 1.7.6
-tqdm: Using tqdm.autonotebook.tqdm in notebook mode
-shap: 0.42.1
-seaborn: 0.12.2
+- Python Version: 3.11.4
+- `numpy`: 1.24.4
+- `matplotlib`: 3.7.2
+- `scikit-learn (sklearn)`: 1.3.0
+- `pandas`: 2.0.3
+- `xgboost`: 1.7.6
+- `shap`: 0.42.1
+- `seaborn`: 0.12.2
 
 ## Author
 Angela Yeung (angela_yeung@brown.edu)
