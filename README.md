@@ -19,4 +19,4 @@ The dataset, due to its large size, has not been included in this repository, bu
 ## Author
 Angela Yeung (angela_yeung@brown.edu)
 ## License
-N/A
+AFL-3.0
