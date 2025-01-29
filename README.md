@@ -1,6 +1,5 @@
-# DATA1030 Final Project
-## Overview: Forecasting CO2 Emissions from Global Flights
-This project focuses on a critical environmental issue: carbon dioxide emissions from global flights. The primary goal is to forecast CO2 emissions for each flight using various features such as the number of stops, price, and duration. This regression problem is highly relevant due to air travel's significant contribution to global CO2 emissions.
+## Forecasting CO2 Emissions from Global Flights (Machine Learning Pipeline)
+This project focuses on a critical environmental issue: carbon dioxide emissions from global flights. The primary goal is to forecast CO2 emissions for each flight using various features such as the number of stops, price, and duration. This regression problem is highly relevant due to air travel's significant contribution to global CO2 emissions. You can find the full report PDF in this repository. 
 
 ## Data Source
 The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/polartech/flight-data-with-1-million-or-more-records), courtesy of BarkingData, a company specializing in web mining and dataset provision for research.
